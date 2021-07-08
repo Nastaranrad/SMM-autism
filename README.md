@@ -6,7 +6,7 @@ If you use the code in this repository for a published research project, please 
 
 The code is designed to run on Python 2.7 and Keras 1.0.8.
 
-#Replication of results
+# Replication of results
 
 1. Preprocessing_Simulated_Data.py
 * Input: sourceDataFilesAcc, sourceDataFilesGyro, sourceDataFilesMag. The path of accelerometer, gyroscope, and magnetometer data for three sessions of one subject. Change the input to the path where you save data. Example: ~/Simulated_Data/subject path/session path/EXLAccelerometer.csv 
